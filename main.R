@@ -1,4 +1,4 @@
-## Checkpoint 1: (Data Understanding & Data Preparation) (10% marks)
+# Data Understanding & Data Preparation
 
 require(lubridate)
 library(forecast)
